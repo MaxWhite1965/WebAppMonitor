@@ -22,7 +22,7 @@ The script including a function to send an email alert notification if an error 
 
 I've created this single example which of course can be extended to create a full test suite of multiple customer journeys for your own web apps.
 
-##3. This is intended to provide monitoring but of course can also be used for any testing and provide a comprehensive regression test suite if needed.
+## 3. This is intended to provide monitoring but of course can also be used for any testing and provide a comprehensive regression test suite if needed.
 
 Although the test suite uses python's 'unittest' package, this is not an example of a detailed full functional/unit test and is not intended to replace that.
 
